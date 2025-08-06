@@ -9,7 +9,14 @@
     "rslib",
     "rsbuild",
     "typescript",
-    "biome"
+    "biome",
+    "unocss-plugin",
+    "css",
+    "utility-first",
+    "webpack",
+    "postcss",
+    "frontend",
+    "styling"
   ],
   "version": "0.0.0",
   "repository": "https://github.com/winjs-dev/winjs-plugin-unocss",
