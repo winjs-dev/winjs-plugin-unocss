@@ -18,7 +18,7 @@
     "frontend",
     "styling"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/winjs-dev/winjs-plugin-unocss",
   "license": "MIT",
   "type": "module",
