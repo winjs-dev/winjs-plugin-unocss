@@ -1,5 +1,16 @@
 {
   "name": "winjs-plugin-example",
+  "keywords": [
+    "winjs",
+    "plugin",
+    "template",
+    "winner-fed",
+    "winjs-dev",
+    "rslib",
+    "rsbuild",
+    "typescript",
+    "biome"
+  ],
   "version": "0.0.0",
   "repository": "https://github.com/winjs-dev/winjs-plugin-template",
   "license": "MIT",
@@ -35,6 +46,7 @@
     "@rsbuild/core": "^1.4.2",
     "@rslib/core": "^0.10.4",
     "@types/node": "^22.15.34",
+    "@winner-fed/winjs": "*",
     "playwright": "^1.53.2",
     "simple-git-hooks": "^2.13.0",
     "typescript": "^5.8.3"
