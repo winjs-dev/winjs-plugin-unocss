@@ -1,9 +1,5 @@
 <template>
   <div>
-    <h2>Hi! Welcome to Winjs ❤️ Vue!</h2>
-    <p>
-      <img src="@/assets/img/logo.png" width="200" height="200" alt="logo" />
-    </p>
-    <p>To get started, edit <code>pages/index.vue</code> and save to reload.</p>
+    <p class="my-16px text-28px text-red-500">This is win docs.</p>
   </div>
 </template>

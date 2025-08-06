@@ -1,9 +1,9 @@
 {
-  "name": "winjs-plugin-example",
+  "name": "@winner-fed/plugin-unocss",
   "keywords": [
     "winjs",
     "plugin",
-    "template",
+    "unocss",
     "winner-fed",
     "winjs-dev",
     "rslib",
@@ -12,7 +12,7 @@
     "biome"
   ],
   "version": "0.0.0",
-  "repository": "https://github.com/winjs-dev/winjs-plugin-template",
+  "repository": "https://github.com/winjs-dev/winjs-plugin-unocss",
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -39,6 +39,10 @@
   },
   "simple-git-hooks": {
     "pre-commit": "npm run lint:write"
+  },
+  "dependencies": {
+    "@unocss/webpack": "^66.4.1",
+    "@unocss/postcss": "^66.4.1"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.1.1",
