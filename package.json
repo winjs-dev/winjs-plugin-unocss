@@ -51,19 +51,19 @@
     "pre-commit": "npm run lint:write"
   },
   "dependencies": {
-    "@unocss/webpack": "^66.4.1",
-    "@unocss/postcss": "^66.4.1"
+    "@unocss/webpack": "^66.10.2",
+    "@unocss/postcss": "^66.10.2"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.1.1",
-    "@playwright/test": "^1.53.2",
-    "@rsbuild/core": "^1.4.2",
-    "@rslib/core": "^0.10.4",
-    "@types/node": "^22.15.34",
+    "@biomejs/biome": "^2.5.13",
+    "@playwright/test": "^1.63.0",
+    "@rsbuild/core": "^1.7.6",
+    "@rslib/core": "^0.23.2",
+    "@types/node": "^22.20.2",
     "@winner-fed/winjs": "*",
-    "playwright": "^1.53.2",
-    "simple-git-hooks": "^2.13.0",
-    "typescript": "^5.8.3"
+    "playwright": "^1.63.0",
+    "simple-git-hooks": "^2.14.0",
+    "typescript": "^5.9.3"
   },
   "peerDevDependencies": {
     "@winner-fed/winjs": "*"
